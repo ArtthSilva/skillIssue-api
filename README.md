@@ -1,6 +1,6 @@
 # Skill Issue
 
-Projeto para coletar vagas (Indeed na v1) e analisar as skills mais pedidas (stacks dev, cloud/devops e soft skills)
+Projeto AI-First para coletar vagas (Linkedin e remotive atualmente) e analisar as skills mais pedidas (stacks dev, cloud/devops e soft skills)
 ## Como rodar
 
 1) Ambiente e dependências
