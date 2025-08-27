@@ -1,6 +1,5 @@
-# Skill Issue
-
-Projeto AI-First para coletar vagas (Linkedin e remotive atualmente) e analisar as skills mais pedidas (stacks dev, cloud/devops e soft skills)
+# Skill Issue - Back
+Projeto para coletar vagas de emprego em sites como LinkedIn, GetOnBoard e Remotive e analisar as skills mais pedidas (stacks de desenvolvimento, cloud/devops e soft skills).
 ## Como rodar
 
 1) Ambiente e dependências
